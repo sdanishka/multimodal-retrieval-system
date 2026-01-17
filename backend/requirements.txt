@@ -1,0 +1,44 @@
+# Multimodal Retrieval System - Backend Dependencies
+# Using Danish's Smart Gallery Model Configuration
+# ==================================================
+
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# Data Models
+pydantic>=2.5.0
+
+# ML & Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# CLIP ViT-L-14 (your config uses open_clip)
+open-clip-torch>=2.23.0
+
+# InsightFace buffalo_l for face recognition (512-dim)
+insightface>=0.7.3
+onnxruntime-gpu>=1.16.0  # Use onnxruntime for CPU-only
+
+# Your fine-tuned YOLO model
+ultralytics>=8.0.0
+
+# Vector Search
+faiss-gpu>=1.7.2  # Use faiss-cpu for CPU-only
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Utilities
+numpy>=1.24.0
+httpx>=0.25.0
+tqdm>=4.66.0
+
+# Optional: DINOv2 (loaded via torch.hub)
+# No separate package needed
+
+# Development
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
