@@ -1,6 +1,6 @@
 # 🔍 Multimodal Retrieval System
 
-A production-ready multimodal search system that enables searching through images using **face recognition**, **visual similarity**, and **natural language text queries**. Built with state-of-the-art deep learning models and optimized for real-time performance.
+A Multimodal search system that enables searching through images using **face recognition**, **visual similarity**, and **natural language text queries**. Built with state-of-the-art deep learning models and optimized for real-time performance.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)
@@ -302,7 +302,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: [Danish Afridi](https://linkedin.com/in/danishafridi)
 
 ---
-
-<p align="center">
-  Made with ❤️ using AI & Deep Learning
-</p>
