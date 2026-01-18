@@ -299,6 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Danish Afridi** - MSc AI & Data Science, University of Hull
 
 - GitHub: [@DanishAfridi](https://github.com/DanishAfridi)
-- LinkedIn: [Danish Afridi]([https://linkedin.com/in/danishafridi](https://www.linkedin.com/in/danish-khan-afridi-a807b7291/))
+- LinkedIn: [@Danish Afridi]([https://linkedin.com/in/danishafridi](https://www.linkedin.com/in/danish-khan-afridi-a807b7291/))
 
 ---
